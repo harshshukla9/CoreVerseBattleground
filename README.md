@@ -35,9 +35,9 @@ All contracts are deployed on Core Testnet:
 | PvpVault | 0x618807363e1560b590f0f178663a146C48f82a48 |
 | Pvp | 0x6feA0AD72e84e0F2450eEe4cfB3D6a522ff54602 |
 
-## 💰 Tokenomics
+## 💰 Tokenomics (use of Core Blockchain)
 
-- **BattleToken (CattleToken)**: In-game currency used for purchasing NFTs and game features
+- **BattleToken (BattleToken)**: In-game currency used for purchasing NFTs and game features
 - **Exchange Rate**: 1 CORE = 10^8 BattleToken
 - **Utility**: Purchase NFTs, upgrade characters, participate in special events
 
